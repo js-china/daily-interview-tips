@@ -24,3 +24,6 @@
 
 > 来这里，只为让明天的你(我)更优秀～ ，不要忘了[Star我们的仓库](https://github.com/js-china/daily-interview-tips),这将帮助我们提高此项目!
 
+### 你能帮我们丰富它吗?
+请尽情将你们自己的`JavaScript小知识/面试题`向我们提交PR吧。我们欢迎任何意见和建议！
+[点这里查看操作说明](https://github.com/js-china/daily-interview-tips/blob/master/CONTRIBUTING_zh_CN.md)
