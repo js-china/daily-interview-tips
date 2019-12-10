@@ -2,7 +2,7 @@
 
 将小知识/面试题提交到本列表，`fork`此仓库(repository)然后将的小知识放到对应文件夹（根据语言）的新文件中。新文件的名字应该像`2020-xx-xx-name-of-your-tip`这样。
 
-书写小知识/面试题时请按照[这个格式](https://github.com/js-china/interview-questions/new/master/POST_TEMPLATE.md)。
+书写小知识/面试题时请按照[这个格式](https://github.com/js-china/daily-interview-tips/blob/master/POST_TEMPLATE.md)。
 
 ### 要求
 - 小知识可以在五分钟内阅读完。
