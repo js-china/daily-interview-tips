@@ -16,7 +16,7 @@
 
 ### 让我们保持联系
 
-这里有很多获得更新的方式，There are a lot of way to get update, choose your own
+这里有很多获得更新的方式
 
 + [官方博客](https://www.javascriptc.com/)
 + [官方GitHub](https://github.com/js-china/daily-interview-tips)
